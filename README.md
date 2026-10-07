@@ -46,6 +46,7 @@ Enter grade for Science (0-100): 78
 Successfully added Alice to the gradebook.
 
 Key Features (Section C)
+
 • Add Student: Adds a new student with default subject entries.
 
 • Update Grades: Appends new marks to the selected subject.
